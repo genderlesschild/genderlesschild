@@ -6,6 +6,6 @@
 <p align="center"> freely c*h and w2i! since i'm usually afk on pt <p align="center"> 
 
 <p align="center">
-<sup><a href="https://ameisabomb.atabook.org/">ata (sign me!)</a></sup>⠀⠀⠀<sup><a href="https://bewithme.straw.page/">strawpage</a></sup>
+<sup><a href="https://ameisabomb.atabook.org/">ata (sign me!)</a></sup>⠀⠀⠀<sup><a href="https://divinius.straw.page//">strawpage</a></sup>
 ⠀⠀⠀<img src="https://komarev.com/ghpvc/?username=genderlesschild&label=୨୧%20&color=c3007b&style=flat" alt="genderlesschild" /> </p>
 </p>
