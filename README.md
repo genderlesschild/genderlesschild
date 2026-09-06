@@ -7,5 +7,5 @@
 
 <p align="center">
 <sup><a href="https://ameisabomb.atabook.org/">ata (sign me!)</a></sup>⠀⠀⠀<sup><a href="https://divinius.straw.page">strawpage</a></sup>
-⠀⠀⠀<img src="https://komarev.com/ghpvc/?username=genderlesschild&label=୨୧%20&color=d3af75&style=flat" alt="genderlesschild" /> </p>
+⠀⠀⠀<img src="https://komarev.com/ghpvc/?username=genderlesschild&label=୨୧%20&color=fef278&style=flat" alt="genderlesschild" /> </p>
 </p>
